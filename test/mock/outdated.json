@@ -1,0 +1,199 @@
+{
+  "packages": [
+    {
+      "package": "angular",
+      "current": {
+        "version": "6.0.0-alpha+1"
+      },
+      "upgradable": {
+        "version": "6.0.0-alpha+1"
+      },
+      "resolvable": {
+        "version": "6.0.0-alpha+1"
+      },
+      "latest": {
+        "version": "5.3.1"
+      }
+    },
+    {
+      "package": "angular_components",
+      "current": {
+        "version": "0.14.0-alpha+1"
+      },
+      "upgradable": {
+        "version": "0.14.0-alpha+1"
+      },
+      "resolvable": {
+        "version": "0.14.0-alpha+1"
+      },
+      "latest": {
+        "version": "0.13.0+1"
+      }
+    },
+    {
+      "package": "pana",
+      "current": {
+        "version": "0.12.20"
+      },
+      "upgradable": {
+        "version": "0.12.20"
+      },
+      "resolvable": {
+        "version": "0.12.20"
+      },
+      "latest": {
+        "version": "0.13.7"
+      }
+    },
+    {
+      "package": "json_serializable",
+      "current": {
+        "version": "3.2.3"
+      },
+      "upgradable": {
+        "version": "3.2.3"
+      },
+      "resolvable": {
+        "version": "3.2.3"
+      },
+      "latest": {
+        "version": "3.3.0"
+      }
+    },
+    {
+      "package": "analyzer",
+      "current": {
+        "version": "0.37.1+1"
+      },
+      "upgradable": {
+        "version": "0.37.1+1"
+      },
+      "resolvable": {
+        "version": "0.37.1+1"
+      },
+      "latest": {
+        "version": "0.39.7"
+      }
+    },
+    {
+      "package": "dart_style",
+      "current": {
+        "version": "1.2.10"
+      },
+      "upgradable": {
+        "version": "1.2.10"
+      },
+      "resolvable": {
+        "version": "1.2.10"
+      },
+      "latest": {
+        "version": "1.3.4"
+      }
+    },
+    {
+      "package": "front_end",
+      "current": {
+        "version": "0.1.21+1"
+      },
+      "upgradable": {
+        "version": "0.1.21+1"
+      },
+      "resolvable": {
+        "version": "0.1.21+1"
+      },
+      "latest": {
+        "version": "0.1.29"
+      }
+    },
+    {
+      "package": "intl",
+      "current": {
+        "version": "0.15.8"
+      },
+      "upgradable": {
+        "version": "0.15.8"
+      },
+      "resolvable": {
+        "version": "0.15.8"
+      },
+      "latest": {
+        "version": "0.16.1"
+      }
+    },
+    {
+      "package": "kernel",
+      "current": {
+        "version": "0.3.21+1"
+      },
+      "upgradable": {
+        "version": "0.3.21+1"
+      },
+      "resolvable": {
+        "version": "0.3.21+1"
+      },
+      "latest": {
+        "version": "0.3.29"
+      }
+    },
+    {
+      "package": "protobuf",
+      "current": {
+        "version": "0.13.16+1"
+      },
+      "upgradable": {
+        "version": "0.13.16+1"
+      },
+      "resolvable": {
+        "version": "0.13.16+1"
+      },
+      "latest": {
+        "version": "1.0.1"
+      }
+    },
+    {
+      "package": "source_gen",
+      "current": {
+        "version": "0.9.4+6"
+      },
+      "upgradable": {
+        "version": "0.9.4+6"
+      },
+      "resolvable": {
+        "version": "0.9.4+6"
+      },
+      "latest": {
+        "version": "0.9.5"
+      }
+    },
+    {
+      "package": "bazel_worker",
+      "current": {
+        "version": "0.1.21"
+      },
+      "upgradable": {
+        "version": "0.1.21"
+      },
+      "resolvable": {
+        "version": "0.1.21"
+      },
+      "latest": {
+        "version": "0.1.23+1"
+      }
+    },
+    {
+      "package": "build_resolvers",
+      "current": {
+        "version": "1.2.1"
+      },
+      "upgradable": {
+        "version": "1.2.1"
+      },
+      "resolvable": {
+        "version": "1.2.1"
+      },
+      "latest": {
+        "version": "1.3.5"
+      }
+    }
+  ]
+}
